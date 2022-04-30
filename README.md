@@ -29,8 +29,9 @@ In this project, we were able to achieve a near to perfect clone of the original
 You can also take a glimpse of our Project, just follow the below steps:
 
     1. Copy the path of index.html and paste it into your browser.
+    2. Input location in search box and click on search.
 
-    2. In the browser you will land on the landing page just Register and login if you have signed up before or do the signup.
+  
 .
 
 <br>
